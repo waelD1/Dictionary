@@ -59,21 +59,3 @@ else:
             print(elem)
     else:
         print(definition(data, word))
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
